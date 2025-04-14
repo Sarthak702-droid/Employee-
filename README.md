@@ -1,5 +1,3 @@
-Here's the **Markdown format** summary for your **Employee Performance Dashboard (Power BI Project)**, ideal for your portfolio, resume, or LinkedIn post:
-
 ---
 
 # 👩‍💼 Employee Performance Dashboard (Power BI Project)
